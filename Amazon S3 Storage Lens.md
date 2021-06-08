@@ -7,7 +7,7 @@ Amazon S3 Storage Lens aggregates our usage and activity metrics and displays th
 
 ## How S3 Storage Lens works:
 
-Image
+![alt text](https://github.com/rajendra-jagtap/blogs/blob/main/images/lens/lens1.png?raw=true)
 
 ## Default Dashboard:
 
